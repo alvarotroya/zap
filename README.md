@@ -1,7 +1,7 @@
 # Zap
 
 
-Zap is a command-line interface (CLI) tool designed for movie enthusiasts who want to easily browse and find films using fuzzy search over IMDb data.
+Zap is a command-line interface (CLI) tool designed for movie enthusiasts who want to easily browse and find films using fuzzy search over movie data.
 With Zap, you can quickly locate movies based on partial titles, genres, or keywords, streamlining your movie discovery process.
 
 ## Dev installation
@@ -56,7 +56,7 @@ You can learn more about typer here: [https://typer.tiangolo.com/](https://typer
 ## Features
 
 - **Fuzzy Searching**: Find movies even with typos or partial titles.
-- **Quick Access**: Fast retrieval of movie data from IMDb.
+- **Quick Access**: Fast retrieval of movie data from disk.
 - **Simple Interface**: Easy-to-use command-line tool for effortless browsing.
 - **Filter Options**: Search by genre, year, or other attributes.
 
@@ -108,7 +108,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Acknowledgments
 
 - Inspired by the need for a more efficient way to browse movies.
-- Thanks to IMDb for providing a vast database of film data.
 
 For any questions or feedback, please open an issue in the GitHub repository! Enjoy browsing with Zap!
 
