@@ -38,6 +38,12 @@ or
 uv run main.py
 ```
 
+1. Display the `help` menu:
+```bash
+python main.py --help
+```
+
+You can learn more about typer here: [https://typer.tiangolo.com/](https://typer.tiangolo.com/)
 
 ## WARNING! All of the following text is ChatGPT garbage, this README is still work in progress. This will all be adapted.
 
