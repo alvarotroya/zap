@@ -29,6 +29,11 @@ uv venv
 source .venv/bin/activate
 ```
 
+1. Install pre-commit hooks:
+```bash
+pre-commit install --hook-type pre-commit --hook-type pre-push
+```
+
 1. Run the main file:
 ```bash
 python main.py
